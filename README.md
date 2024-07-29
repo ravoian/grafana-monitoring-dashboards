@@ -1,6 +1,8 @@
 # Grafana Monitoring Dashboards
 
-Rasterized samples of different Grafana dashboards created for previous projects to monitor build systems and infrastructure
+Rasterized samples of different Grafana dashboards created for previous projects to monitor build systems and infrastructure. 
+
+Click on the following images to view larger:
 
 ![Grafana_Dashboard_Sample_01](https://github.com/ravoian/grafana-monitoring-dashboards/blob/main/Grafana_Dashboard_Sample_01.jpg?raw=true)
 
