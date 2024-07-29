@@ -1,2 +1,5 @@
-# grafana-monitoring-dashboards
-Samples of previous Grafana dashboards used for monitoring builds and infrastructure
+# Grafana Monitoring Dashboards
+
+Samples of different Grafana dashboards created for previous projects to monitor build systems and infrastructure
+
+## 
